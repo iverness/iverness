@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iverness
-- 👀 I’m interested in ds,front-end
-- 🌱 I’m currently learning python,js,html,css
+- 👀 I’m interested in ds, front-end
+- 🌱 I’m currently learning python, js, html, css
 - 📫 How to reach me: 
          telegram:@iverness
 
